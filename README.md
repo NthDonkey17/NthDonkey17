@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NthDonkey17
 - 👀 I’m interested in becoming a Front-End Web Developer
 - 🌱 I’m currently learning how to combine HTML, CSS, and JS to find new ways of creating interesting websites
-- 💞️ I’m looking to collaborate on where to go after learning HTML, CSS, and JS, before trying to get a job
+- 💞️ I’m looking to collaborate on anything related to web development/design
 - 📫 How to reach me: @NthDonkey17 on GitHub
 
 <!---
